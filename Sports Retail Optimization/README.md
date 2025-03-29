@@ -1,4 +1,4 @@
-This is an analysis of a sport's retail store sales information. There are five spreadsheets of information: *brands*, *finance*, *reviews*, *traffic*, and *info*. The goal of this analysis was to find out when and how the store brings in the most money, as well as where this store struggles to bring in money.
+This is an analysis of a sports retail store sales information. There are five spreadsheets of information: *brands*, *finance*, *reviews*, *traffic*, and *info*. The goal of this analysis was to find out when and how the store brings in the most money, as well as where this store struggles to bring in money.
 
 # Project Goals:
 Money is profit, profit comes from revenue. The *finance* spreadsheet shows the total revenue of each product. I attempted to found out:
@@ -8,10 +8,10 @@ Money is profit, profit comes from revenue. The *finance* spreadsheet shows the 
   - When are these products sold?
   - Is there a common feature(s) between these products?
 - Which products have the worst reviews?
-  - Is there a common feature(s) between thse products?
+  - Is there a common feature(s) between these products?
 
 # Data Info:
-I started in Python by importing the CSV files, explored the infomrmation of each dataset, then import them into PostgreSQL. Ther were several *NULL* rows throughout the dataset, which I deleted to make analysis easier. I first did queries for individual tables and then began joining them together to specifically answer our project goals.
+I started in Python by importing the CSV files, explored the information of each dataset, then import them into PostgreSQL. Ther were several *NULL* rows throughout the dataset, which I deleted to make analysis easier. I first did queries for individual tables and then began joining them together to specifically answer our project goals.
 
 # Concluding Points
 ## Overall Rating and Review Info:
@@ -20,7 +20,7 @@ A total of 258 products that have a *0.0* rating.
 
 A total of 212 products with no reviews.
 
-Out of these totalS:
+Out of these totals:
 
 - *70* products have a *0.0* rating and also have a review. (trouble products?)
 - *188* products have a *0.0* rating and no reviews. (are these products newer?)
@@ -38,8 +38,8 @@ The product that makes this store the most money is *Nike Air Jordan 10 Retro* w
 
 Only one of each product was sold, therefore I cannot do any accurate analysis of which product is most or least popular.
 The Nike Air Jordan 10 Retro shoes were only sold on Thursdays, which seems very unrealistic, especially when they have given the store the most revenue. I did not proceed with finding the time at which they were most sold due to unrealistic data.
-Some products have a listing price of 0.0 but have given the store revenue, such as the Nike Air Jordan 10 Retro. This makes no sense and I cannot do proper calculations to determine where there financial strengths and weaknesses are.
+Some products have a listing price of 0.0 but have given the store revenue, such as the Nike Air Jordan 10 Retro. This makes no sense, and I cannot make proper calculations to determine where their financial strengths and weaknesses are.
 
 ![image](https://github.com/user-attachments/assets/e71ca96a-13fa-43a6-9838-6629d4c974b5)
 
-This dataset has over 3000 data points/products, of which 2259 are shoes and 71 are slippers. This is not realistic for a sports store, which can sell a lot more diverse products, especially sports' equipment.
+This dataset has over 3000 data points/products, of which 2259 are shoes and 71 are slippers. This is not realistic for a sports store, which can sell a lot more diverse products, especially sports equipment.
