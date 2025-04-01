@@ -30,7 +30,7 @@ Here I document a summary of my SQL projects with a description of each project 
 
 | Project Link | Project Description | Skills | 
 |---|---|---|
-| 🏈 [Sports Retail](https://github.com/bdavidson16/SQL/blob/main/Sports%20Retail%20Optimization/README.md) | Analysis of a sports retail store sales information to find out when and how the store brings in the most money. The analysis started in Python by importing CSV files, then explored the information of each dataset, and finally imported them into PostgreSQL for the analysis. | SELECT, Filter, Sort, JOINs, CTEs, CASE |
+| 🏈 [Sports Retail](https://github.com/bdavidson16/SQL/tree/main/Sports%20Retail%20Optimization) | Analysis of a sports retail store sales information to find out when and how the store brings in the most money. The analysis started in Python by importing CSV files, then explored the information of each dataset, and finally imported them into PostgreSQL for the analysis. | SELECT, Filter, Sort, JOINs, CTEs, CASE |
 
 ***
 
