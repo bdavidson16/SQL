@@ -6,8 +6,7 @@ Here I document a summary of my SQL projects with a description of each project 
   - Query: COUNT, JOINs, WHERE, GROUP BY, HAVING
   - Create Views
   - Use CTEs
-  - Solve with an anti-join or with a "not in" subquery
-  - Conditional Logic: CASE, DECODE, COALESCE, GREATEST, IFNULL, and LEAST
+  - Conditional Logic: CASE, COALESCE, GREATEST, IFNULL, and LEAST
   - Prep data to get into Power BI
 
 
