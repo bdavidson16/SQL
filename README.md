@@ -13,7 +13,6 @@ Here I document a summary of my SQL projects with a description of each project 
 ## 📚 Table of Contents
 - [8 Week SQL Challenge](#8weeksqlchallenge)
 - [Pure SQL](#pure-sql)
-- [Data Prep for Visualization](#data-prep-for-visualization)
 
 # [8 Week SQL Challenge](https://8weeksqlchallenge.com)
 
